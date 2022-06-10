@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(rgba(95, 114, 189,0.8), rgba(155,35,234,0.7)),url("../img/imagen1.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: #FFF;
+}
+
+.logo {
+    height: 80px;
+    margin-top: 20px;
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    color: black;    
+}
+
+.form-control {
+    background: transparent ;
+    color: red !important;
+}
+
+
+a .fab {
+    color: #000;
+    font-size: 30px;
+    margin: 0 10px;
+}
+.btn {
+
+    color: #1B219B;
+}
+h1 {
+
+    color: black;
+}
